@@ -27,7 +27,9 @@ Nhận thức được các nguyên tắc bảo mật cơ bản khi đưa code l
 ### 3.1 Hoàn thành các module học tập
 
 Đã hoàn thành các module học tập được giao trên Microsoft Learn.
+Part 1: Git/GitHub cơ bản, repository, branch, commit, pull request, GitHub Flow.
 
+Part 2: cộng tác, quản lý dự án, bảo mật repository, pull request nâng cao, tìm kiếm lịch sử thay đổi, quản trị và sử dụng GitHub Copilot ở mức cơ bản.
 ---
 
 ### 3.2 Tạo GitHub Repository cá nhân
