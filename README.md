@@ -71,7 +71,7 @@ Cách xử lý: Em đã kích hoạt trình chỉnh sửa web Resolve conflicts,
 
 ### 3.7 Thực hành Rollback/Revert
 
-This is a wrong change
+
 ---
 
 ## 4. Kết quả đạt được
