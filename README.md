@@ -65,7 +65,8 @@ https://github.com/quyeennn/Git-Safety-Foundation
 ---
 
 ### 3.6 Thực hành xử lý Merge Conflict
-
+Tình huống mô tả: từ nhánh main em tạo nhánh confict, sau đó chỉnh sửa file readme.md tại dòng 30, sau đó pull request merge. Tiếp theo từ nhánh main cũng chỉnh sửa file readme.md tại dòng 30, sau đó tạo pull request với nhánh confict-2. Hợp nhất nhánh conflict vào main thành công. Sau đó hợp nhất confict-2 thì báo lỗi.
+Cách xử lý: Em đã kích hoạt trình chỉnh sửa web Resolve conflicts, tiến hành xóa bỏ các thẻ đánh dấu xung đột (<<<<<<<, =======, >>>>>>>), giữ lại nội dung đồng nhất và tiến hành commit để hoàn thành việc gộp.
 
 
 ### 3.7 Thực hành Rollback/Revert
